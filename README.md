@@ -88,6 +88,6 @@ I spent over **2 days** cleaning and aligning these datasets.
 
 ## 👩‍💻 Author
 
-**[https://www.linkedin.com/in/olufunmilolaolaewe/]**  
-📧 [olufunmilolaolapejuolaewe@gmail.com]  
+**[Linkedin](https://www.linkedin.com/in/olufunmilolaolaewe/)**  
+📧 [Gmail] (olufunmilolaolapejuolaewe@gmail.com) 
 📌 *Committed to quality data work in media, advertising, and beyond.*
