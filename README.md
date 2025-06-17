@@ -63,8 +63,9 @@ I spent over **2 days** cleaning and aligning these datasets.
 
 | File | Description |
 |------|-------------|
-| `Adcluster_Analysis.xlsx` | Final cleaned file with matched ratings |
-| `README.md` | Project documentation and explanation of process |
+| `Adcluster_Analysis.xlsx` | The Data before the data cleaning process |
+| 'ASSESSMENT'| THE Dataset After the data cleaning process|
+| `Readme` | Project documentation and explanation of process |
 
 ---
 
@@ -87,6 +88,6 @@ I spent over **2 days** cleaning and aligning these datasets.
 
 ## 👩‍💻 Author
 
-**[Your Full Name or GitHub handle]**  
-📧 [Optional Email]  
+**[https://www.linkedin.com/in/olufunmilolaolaewe/]**  
+📧 [olufunmilolaolapejuolaewe@gmail.com]  
 📌 *Committed to quality data work in media, advertising, and beyond.*
