@@ -10,6 +10,7 @@ A hands-on Excel-based data cleaning and transformation project that maps radio 
 - [🛠️ Data Cleaning Process](#-data-cleaning-process)
 - [📂 Files in this Repository](#-files-in-this-repository)
 - [📈 Key Skills Demonstrated](#-key-skills-demonstrated)
+- [Challenges & Learnings](#-Challenges-&-Learnings)
 - [🪄 Future Suggestions](#-future-suggestions)
 - [👩‍💻 Author](#-author)
 
