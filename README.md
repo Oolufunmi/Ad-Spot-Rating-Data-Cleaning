@@ -84,6 +84,14 @@ I spent over **2 days** cleaning and aligning these datasets.
 
 ---
 
+## 🧩 Challenges & Learnings
+
+- **Station Mismatches:** Some station names varied slightly; I had to manually reconcile ~18 names.
+- **Time Band Mapping:** Mapping exact timestamps to nearest 15-min interval required rounding logic.
+- **Unpivoting & Normalizing:** It was tricky in Excel, but necessary to make the data joinable.
+
+💡 These helped reinforce my data preparation and documentation skills.
+
 ## 🪄 Future Suggestions
 
 - Automate with **Power Query**, **Python (pandas)**, or **SQL**
